@@ -42,3 +42,10 @@ The port version of [Bukkit Essentials](http://dev.bukkit.org/bukkit-plugins/ess
      - [ ] Sell.
      - [ ] Balance.
   - [ ] Test Economy Signs.
+  Fork's changesis going to me. Fork code:Kreiyo
+
+ Please support the original authors, :https://github.com/LegendOfMCPE/EssentialsPE
+
+Donation lonk is for original authors! 
+
+
