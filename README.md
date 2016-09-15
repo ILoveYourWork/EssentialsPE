@@ -46,6 +46,6 @@ The port version of [Bukkit Essentials](http://dev.bukkit.org/bukkit-plugins/ess
 
  Please support the original authors, :https://github.com/LegendOfMCPE/EssentialsPE
 
-Donation lonk is for original authors! 
+Donation link is for original authors! 
 
 
