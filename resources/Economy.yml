@@ -19,7 +19,7 @@ worth:
   56: 50
   262: 10
   364: 15
-//Please search on Google if you don't know item's id.
+# Please search on Google if you don't know item's id.
 
 # The balance of all the players
 player-balances: []
