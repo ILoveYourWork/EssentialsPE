@@ -2,7 +2,7 @@
 default-balance: 0
 
 # The symbol to represent currency
-currency-symbol: '$'
+currency-symbol: '€'
 
 # Max money, to prevent your server crash because of high values.
 max-money: 10000000000000
@@ -19,6 +19,7 @@ worth:
   56: 50
   262: 10
   364: 15
+//Please search on Google if you don't know item's id.
 
 # The balance of all the players
 player-balances: []
